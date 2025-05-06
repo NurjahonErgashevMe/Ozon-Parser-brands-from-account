@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+.env
+
+# Логи и временные файлы
+ozon_bot.log
+page.html
+ozon_cookies.pkl
+*.xlsx
+
+# IDE
+.vscode/
+.idea/
